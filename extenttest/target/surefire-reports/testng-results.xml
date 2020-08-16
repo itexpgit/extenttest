@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test.com.ExtentReportDemo" duration-ms="483" started-at="2020-08-16T16:56:49Z" finished-at="2020-08-16T16:56:49Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="483" started-at="2020-08-16T16:56:49Z" finished-at="2020-08-16T16:56:49Z">
+      <class name="test.com.ExtentReportDemo">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:test.com.ExtentReportDemo@66d33a]" name="loginTest" duration-ms="466" started-at="2020-08-16T11:56:49Z" finished-at="2020-08-16T11:56:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- test.com.ExtentReportDemo -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.com.ExtentReportDemo -->
+</testng-results>
